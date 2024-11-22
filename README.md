@@ -2,7 +2,7 @@
 
 In this repository we use a LLM to label facebook comments as racist or not. There's two basic tools here: a script that uses the raw html of comments on Facebook and puts them into a csv. The other script uses a LLM to label them.
 
-This repo was quickly created as part of an AI course. It is by _no means_ a tool for comment moderation. It's just a little inquiry into the effectiveness of LLM's when it comes to detecting racism in social media comments.
+N.B.: This repo was quickly created as part of an AI course. It is by _no means_ a tool for comment moderation. It's just a little inquiry into the effectiveness of LLM's when it comes to detecting racism in social media comments.
 
 ## Prerequisites
 
